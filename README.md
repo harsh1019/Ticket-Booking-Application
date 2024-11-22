@@ -60,7 +60,7 @@ This is a Go server for a ticket booking application built using the GoFiber fra
 - `POST /tickets` - Book a ticket for an event (requires JWT)
 - `POST /tickets/validate` - Validate a ticket using QR code (requires JWT)
 
-## 🙏 Acknowledgements
+## Dependencies
 
 - [GoFiber](https://gofiber.io/) - Web framework for Go
 - [JWT](https://jwt.io/) - JSON Web Tokens for authentication
