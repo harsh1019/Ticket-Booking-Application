@@ -7,7 +7,7 @@ This is a Go server for a ticket booking application built using the GoFiber fra
 - 📝 User Registration and Login with JWT
 - 🎉 Create New Events
 - 🎫 Book Tickets for Events
-- 📷 QR Code Scanning and Validation
+- 📷 QR Code Scanning and Validations
 
 ## 🚀 Getting Started
 
