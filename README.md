@@ -1,4 +1,4 @@
-# 🎟️ Ticket Booking Application - Go Server
+# 🎟️ Ticket Booking Application(GoTix) - Go Server
 
 This is a Go server for a ticket booking application built using the GoFiber framework. The application supports user registration and login using JWT, event creation, ticket booking, and QR code validation.
 
